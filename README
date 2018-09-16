@@ -1,0 +1,8 @@
+Peng Gu
+09/15/2018
+
+hello.c: prints helloworld message and some other unimportant messages
+rot128.c: reads a textfile from user and translate it into code, and also reads a number from command line and rotates it with rot128 rules
+diamond.c: reads a number from the user and print a diamond of that size, the diamond would be of opposite color if the number is negative
+
+I've adhered to the Honor Code in this assignment.
